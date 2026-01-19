@@ -1,0 +1,31 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #ffffff;
+       
+    padding-bottom: 60px;
+
+
+
+}
+/* ===== HEADER ===== */
+nav.navbar {
+    background-color: #dddddd !important;
+}
+
+nav.navbar .navbar-brand,
+nav.navbar .nav-link,
+nav.navbar .navbar-text {
+    color: #000000 !important;
+}
+
+/* ===== FOOTER ===== */
+.footer-fijo {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #dddddd;
+    color: #000;
+    text-align: center;
+    padding: 10px 0;
+}
