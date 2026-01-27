@@ -3,7 +3,7 @@
 class Conexion {
     public static function conectar() {
         $host = "localhost";
-        $dbname = "bd_papeleria";
+        $dbname = "bd_universidad";
         $user = "root";
         $password = "falconini1_";
         $port = "3306";
